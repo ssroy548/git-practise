@@ -3,3 +3,5 @@ def git_opeation():
 git_opeation()
 
 print("this is rebase check")
+
+print("for git push check and git diff check")
